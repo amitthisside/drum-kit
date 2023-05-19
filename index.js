@@ -51,7 +51,7 @@ document.addEventListener("keydown", function(event) {
         break;
 
       default:
-        alert("Sorry, Button not found !");
+        break;
     }
   }
 
